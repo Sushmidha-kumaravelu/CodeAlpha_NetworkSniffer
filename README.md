@@ -24,6 +24,9 @@ It captures live network packets and displays important information such as IP a
 3. Run Command Prompt as Administrator  
 4. Navigate to project folder  
 5. Run:
+   ## Output
+![Packet Sniffer Output](output.png)
+
 
 ## 📌 Project Purpose
 This project was created as part of a cybersecurity / networking internship to understand packet capturing and network monitoring.
